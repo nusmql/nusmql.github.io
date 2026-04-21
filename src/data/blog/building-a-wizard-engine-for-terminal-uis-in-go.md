@@ -13,7 +13,9 @@ tags:
 description: How we built a declarative wizard engine on top of Bubble Tea to orchestrate a 13-step VM deployment flow in the Verda CLI — with dependency tracking, back-navigation, and actor-model views.
 ---
 
-*I'm the author of [verda-cli](https://github.com/verda-cloud/verda-cli) and [verdagostack](https://github.com/verda-cloud/verdagostack) at [Verda Cloud](https://verda.com), where we build GPU cloud infrastructure. This post is about a problem we solved in the open source CLI tooling.*
+![Verda CLI wizard demo — 13-step VM deployment flow with progress bar, dynamic choices, and back-navigation](/images/wizard-demo.gif)
+
+*I'm the author of [verda-cli](https://github.com/verda-cloud/verda-cli) and [verdagostack](https://github.com/verda-cloud/verdagostack) at Verda Cloud, where we build GPU cloud infrastructure at [Verda.com](https://verda.com). This post is about a problem we solved in the open source CLI tooling.*
 
 ## Table of contents
 
